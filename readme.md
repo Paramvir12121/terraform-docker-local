@@ -1,7 +1,5 @@
 # Local Docker Deployment with Terraform
 
-![Docker-Terraform](assets/docker_terraform.png)
-
 This repository contains Terraform configurations to automate the deployment of Docker containers locally in linux system. The configurations are designed to be easy to understand, modify, and deploy, ensuring a streamlined experience for both beginners and experts alike.
 
 ## 📋 Table of Contents
